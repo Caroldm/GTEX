@@ -9,12 +9,12 @@ ________________________________________________________________________________
 
 # General workflow
 
-1)Downloaded 4.9 Gb file from GTEX. With the RPKM RNAseq file.
-2) Got a list of IDS from the metadata file from donors with age range 20-29 and 70-79.
-3) Used the list of IDs to extract only those IDs from the GTEX file
-4)
-A: Filter out all rows that summed 0 
-B: 5% or more 0 values
+1. Downloaded 4.9 Gb file from GTEX. With the RPKM RNAseq file.
+2. Got a list of IDS from the metadata file from donors with age range 20-29 and 70-79.
+3. Used the list of IDs to extract only those IDs from the GTEX file
+4.
+  A: Filter out all rows that summed 0 
+  B: 5% or more 0 values
 
 
 File: Muscle_tex_CD_upload_to_enrichr: Caracteristic direction results uploaded to enrichr
