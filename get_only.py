@@ -1,3 +1,4 @@
+# Get only samples listed in file A from GTEX (GTEx_Analysis_v6_RNA-seq_RNA-SeQCv1.1.8_gene_rpkm.txt)
 # File A content
 file_a = '/Users/carol/Desktop/bst.txt'
 with open(file_a) as filea:
