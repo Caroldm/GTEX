@@ -28,8 +28,8 @@ File: Muscle_tex_CD_upload_to_enrichr: Caracteristic direction results uploaded 
 
 ________________________________________________________________________________________________________________________
 
-*Scripts:
+*Scripts:*
 
 **1. get_only.py:** Get specific samples from GTEX. 
-*File A:* samples wanted.
-*File B:* GTEX file (GTEx_Analysis_v6_RNA-seq_RNA-SeQCv1.1.8_gene_rpkm.txt).
+  *File A:* samples wanted.
+  *File B:* GTEX file (GTEx_Analysis_v6_RNA-seq_RNA-SeQCv1.1.8_gene_rpkm.txt).
