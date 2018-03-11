@@ -1,10 +1,7 @@
 # GTEX
 ________________________________________________________________________________________________________________________
 
-
 GTEX-Muscle_Brain.xlsx: https://drive.google.com/file/d/0Bzv1SNKM1p4uRkI3TkZkZE9vZXM/view?usp=sharing
-
-
 ________________________________________________________________________________________________________________________
 
 # General workflow
@@ -15,7 +12,6 @@ ________________________________________________________________________________
 4.
   A: Filter out all rows that summed 0 
   B: 5% or more 0 values
-
 
 File: Muscle_tex_CD_upload_to_enrichr: Caracteristic direction results uploaded to enrichr
 
@@ -29,3 +25,11 @@ File: Muscle_tex_CD_upload_to_enrichr: Caracteristic direction results uploaded 
 
   Prediction mimic
   http://amp.pharm.mssm.edu/L1000CDS2/#/result/56a68ca5439f8cf8002085b0
+
+________________________________________________________________________________________________________________________
+
+*Scripts:
+
+**1. get_only.py:** Get specific samples from GTEX. 
+*File A:* samples wanted.
+*File B:* GTEX file (GTEx_Analysis_v6_RNA-seq_RNA-SeQCv1.1.8_gene_rpkm.txt).
